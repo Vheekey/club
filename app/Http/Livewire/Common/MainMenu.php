@@ -12,10 +12,5 @@ class MainMenu extends Component
             ->layout('layouts.menu')
             ->slot('mainMenu');;
     }
-
-//    public function manageMeeting()
-//    {
-//        dd('here');
-//        return $this->redirect(route('manage-meeting'));
-//    }
+    
 }
