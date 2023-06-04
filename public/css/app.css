@@ -1,0 +1,56 @@
+.theme-text-color {
+    color: #290661 !important;
+}
+
+.theme-btn{
+    background-color: #290661 !important;
+    color: #ffffff !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #290661 !important;
+    color: #ffffff !important;
+}
+
+.nav-pills .nav-link {
+    color: #290661 !important;
+}
+
+#main-menu.bg-dark{
+    background-color: #290661 !important;
+}
+
+#admin-actions.dropdown-menu.dropdown-menu-dark{
+    background-color: #290661 !important;
+}
+
+.nav-link{
+    color: #290661 !important;
+}
+
+.page{
+    margin-top: 10%;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #2d3748;
+    border-radius: .3rem;
+    color: #ffffff;
+}
+
+.googleCalendar{
+    position: relative;
+    height: 0;
+    width: 50%;
+    padding-bottom: 50%;
+}
+
+.googleCalendar iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
